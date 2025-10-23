@@ -1,5 +1,0 @@
-Description:
-Agentic coder: multi‑agent AI that plans, writes, debugs, and improves code autonomously.
-
-Tags:
-crewai, agentic-ai, multi-agent, coder, autonomous-coding, openai, llm, langchain, python, ai-engineer, code-generation, code-evaluation, developer-tools
