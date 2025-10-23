@@ -50,17 +50,3 @@ uv pip install -e .
 ```bash
 python -m src.coder.main
 ```
-
-## GitHub: Publish
-```bash
-git init
-git add .
-git commit -m "Initial commit: Coder agents"
-git branch -M main
-git remote add origin https://github.com/<YOUR_USERNAME>/coder.git
-git push -u origin main
-```
-
-## Notes
-- Cleaned environment and build artifacts removed.
-- `output/` kept empty in Git using `.gitkeep`.
